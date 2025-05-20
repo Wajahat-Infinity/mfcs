@@ -115,12 +115,12 @@ const Home = () => {
               <PersonProfile
                 imgSrc={razaImg}
                 name="Muhammad Raza"
-                description="Muhammad Raza is the prisdent of the Mehdiabad Fermer coperative society lmt."
+                description="Muhammad Raza is the president of the Mehdiabad Farmer Coperative Society lmt."
               />
               <PersonProfile
                 imgSrc={ghImg}
                 name="Ghulam Hussain"
-                description="Ghulam Hussain  is the Chairman of the Mehdiabad Fermer coperative society lmt."
+                description="Ghulam Hussain  is the chairman of the Mehdiabad Farmer Coperative Cociety lmt."
               />
             </div>
           </Paper>
